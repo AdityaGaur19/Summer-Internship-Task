@@ -1,0 +1,17 @@
+Location,ResourceType,Utilization(%),Downtime(hrs)
+Warehouse A,Guards,51.86,49.8
+Warehouse A,Vehicles,55.81,11.74
+Warehouse A,CCTV Cameras,76.88,19.43
+Warehouse A,Fire Extinguishers,68.55,47.47
+Warehouse B,Guards,84.82,27.01
+Warehouse B,Vehicles,79.37,36.33
+Warehouse B,CCTV Cameras,94.27,32.75
+Warehouse B,Fire Extinguishers,91.68,30.78
+Warehouse C,Guards,96.95,13.99
+Warehouse C,Vehicles,84.51,10.86
+Warehouse C,CCTV Cameras,72.23,11.81
+Warehouse C,Fire Extinguishers,68.13,49.05
+Warehouse D,Guards,68.37,45.08
+Warehouse D,Vehicles,82.24,3.03
+Warehouse D,CCTV Cameras,63.79,48.41
+Warehouse D,Fire Extinguishers,97.45,41.21

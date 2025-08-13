@@ -1,0 +1,25 @@
+Location,Month,OperationalCost(USD)
+Warehouse A,January 2024,2375
+Warehouse A,February 2024,4714
+Warehouse A,March 2024,2868
+Warehouse A,April 2024,4628
+Warehouse A,May 2024,4619
+Warehouse A,June 2024,4445
+Warehouse B,January 2024,2087
+Warehouse B,February 2024,2207
+Warehouse B,March 2024,3366
+Warehouse B,April 2024,2997
+Warehouse B,May 2024,2515
+Warehouse B,June 2024,4312
+Warehouse C,January 2024,2840
+Warehouse C,February 2024,2281
+Warehouse C,March 2024,4270
+Warehouse C,April 2024,2848
+Warehouse C,May 2024,4401
+Warehouse C,June 2024,2884
+Warehouse D,January 2024,2954
+Warehouse D,February 2024,3345
+Warehouse D,March 2024,2604
+Warehouse D,April 2024,4441
+Warehouse D,May 2024,2011
+Warehouse D,June 2024,3135
